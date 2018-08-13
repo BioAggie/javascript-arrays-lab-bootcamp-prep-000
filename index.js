@@ -27,5 +27,5 @@ function removeLastKitten(name) {
 }
 
 function removeFirstKitten(name) {
-  
+  return
 }
